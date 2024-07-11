@@ -1,4 +1,12 @@
-## Hi there 👋
+## About me 
+Hi~👋 My name is Yu Runfeng, a greenhand in Operations Research (OR). 
+
+- 🔭 I’m currently working on OR aobout logistics. 
+- 🌱 I’m currently learning C++ and Python 🐍.
+- 🤔 I’m looking for help with advanced functions of Gurobi.
+- 📫 How to reach me: yrf0409@foxmail.com 🦊
+
+
 
 <!--
 **yrf990409/yrf990409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
