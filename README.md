@@ -1,7 +1,12 @@
+## Hello
+我是一名在读的科研民工，做运筹优化相关的研究（准确来说，是在学习相关的内容）。
+
+一直以来挣扎在能否毕业的边缘，努力沉淀，希望按期毕业。
+
 ## About me 
 Hi~👋 My name is Yu Runfeng, a greenhand in Operations Research (OR). 
 
-- 🔭 I’m currently working on OR aobout logistics. 
+- 🔭 I’m currently working on OR about logistics. 
 - 🌱 I’m currently learning C++ and Python 🐍.
 - 🤔 I’m looking for help with advanced functions of Gurobi.
 - 📫 How to reach me: yrf0409@foxmail.com 🦊
