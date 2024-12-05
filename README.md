@@ -4,7 +4,7 @@
 努力沉淀，希望按期毕业是我的愿望。
 
 ## About me 
-Hi~👋 My name is Yu Runfeng, a greenhand in Operations Research (OR). 
+Hi~👋 My name is Yu Runfeng, a greenhand in Operations Research (OR) focusing on VRP, Location, MAPF. 
 
 - 🔭 I’m currently working on OR about logistics (location, routing, ...). 
 - 🌱 I’m currently learning C++ and Python 🐍.
