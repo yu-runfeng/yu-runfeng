@@ -1,7 +1,7 @@
 ## Hello
 一名在读的博二科研民工，做运筹优化相关的研究（准确来说，是在学习相关的内容，主要为物流方向，选址、路径、仓储机器人等）。
 
-努力沉淀，希望按期毕业是我的愿望。
+努力沉淀，按期毕业是我的愿望。
 
 ## About me 
 Hi~👋 My name is Yu Runfeng, a greenhand in Operations Research (OR) focusing on VRP, Location, MAPF. 
