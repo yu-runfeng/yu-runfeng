@@ -7,7 +7,7 @@ Hi~👋 My name is Yu Runfeng, a greenhand in Operations Research (OR) focusing 
 - 🔭 I’m currently working on OR about logistics (location, routing, ...). 
 - 🌱 I’m currently learning C++ and Python 🐍.
 - 🤔 I’m looking for help with advanced functions of Gurobi and C++.
-- 📫 How to reach me: yrf0409 \at foxmail \dots com 🦊
+- 📫 How to reach me: yrf0409[at]foxmail[dot]com 🦊
 
 
 
